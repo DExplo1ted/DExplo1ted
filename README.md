@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-### 🛡️ Security researcher with 8+ years of experience straddling the line between offensive security and software engineering, work as a full-stack developer but my passion lies in breaking systems to understand how they truly work.
+### 🛡️ Security researcher and  CVE Hunter with 8+ years of experience straddling the line between offensive security and software engineering, work as a full-stack developer but my passion lies in breaking systems to understand how they truly work.
 - Reliable exploit development for high-impact CVEs (UAF, type confusion, logic flaws)
 - Malware analysis & reverse engineering (Windows/Linux, x86/x64/ARM)
 - Custom red team tooling in C++, Rust, and PowerShell
